@@ -58,7 +58,7 @@ FitQuest is a full-stack AI-powered fitness platform that helps users achieve th
     </td>
     <td align="center">
       <strong>🏠 Homepage</strong><br><br>
-      <img src="images/home_page.png.png" width="450"/>
+      <img src="images/home_page.png" width="450"/>
     </td>
   </tr>
 
@@ -101,9 +101,9 @@ FitQuest is a full-stack AI-powered fitness platform that helps users achieve th
   <tr>
     <td align="center">
       <strong>💬 Community Feed</strong><br><br>
-      <img src="community.png" width="450"/>
-      <img src="community01.png" width="450">
-       <img src="community1.png" width="450">
+      <img src="images/community.png" width="450"/>
+      <img src="images/community01.png" width="450">
+       <img src="images/community1.png" width="450">
     </td>
   </tr>
 
